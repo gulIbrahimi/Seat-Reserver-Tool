@@ -1,0 +1,12 @@
+---
+:id: 232042760
+:submitters:
+- :name: Gul Amiz Ibrahimi
+  :email: ibrah23g@mtholyoke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-19 04:29:28.497073000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-18 20:29:28.497073000 Z
+:status: processed
+:score: 27.0
